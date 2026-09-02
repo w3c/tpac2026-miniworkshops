@@ -1,9 +1,12 @@
 ---
-name: Submission to AI & Society
+name:  Submission to AI & Society
+about: Submission to AI & Society
 title: ''
+labels: AI&Society
 assignees: ''
 
 ---
+
 
 # Submission
 *please respond to the 3 questions below in less than 500 words*
