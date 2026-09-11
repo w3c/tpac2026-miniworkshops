@@ -2,9 +2,12 @@
 name:  Submission to AI & Society
 about: Submission to AI & Society
 title: ''
-labels: AI&Society
-assignees: ''
-
+labels: 
+  - AIandSociety
+assignees:
+  - hidde
+  - TzviyaSiegman
+  - christianliebel 
 ---
 
 
