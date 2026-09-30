@@ -1,6 +1,6 @@
 # Mini-workshops at TPAC 2026
 
-All proposals for these mini-workshops are to be submitted to, by **30 September**, as an [issue](https://github.com/w3c/tpac2026-miniworkshops), using the corresponding issue template.
+All proposals for these mini-workshops are to be submitted to, by ~~30 September~~ **9 October**, as an [issue](https://github.com/w3c/tpac2026-miniworkshops), using the corresponding issue template.
 
 ## AI and Society
 
