@@ -2,7 +2,7 @@
 name: Submission to Data Governance & Ownership
 about: Submission to Data Governance & Ownership
 title: ''
-labels: DataGovernance&Owbership
+labels: DataGovernance&Ownership
 assignees: ''
 
 ---
