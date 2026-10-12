@@ -1,12 +1,10 @@
 # Mini-workshops at TPAC 2026
 
-**We are no longer accepting proposals.**
-
 All proposals for these mini-workshops are to be submitted to, by ~~30 September~~ **9 October**, as an [issue](https://github.com/w3c/tpac2026-miniworkshops), using the corresponding issue template.
 
 ## AI and Society
 
-This mini-workshop will explore the positive and negative impacts of Generative AI on society and its intersection with W3C's Ethical Web Principles and Vision. TPAC Attendees are encouraged to submit proposals for discussion topics such as sustainability, the open web, discoverability, inclusion, bias, neighborhoods, accessibility, epistemic injustice, UI, translations, threat modeling, and co-browsing experiences. 
+This mini-workshop will explore the positive and negative impacts of Generative AI on society and its intersection with W3C's Ethical Web Principles and Vision. TPAC Attendees are encouraged to submit proposals for discussion topics such as sustainability, the open web, discoverability, inclusion, bias, neighborhoods, accessibility, epistemic injustice, UI, translations, threat modeling, and co-browsing experiences. **We are no longer accepting proposals.**
 
 ## Age Assurance
 
