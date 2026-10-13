@@ -13,7 +13,7 @@ This mini-workshop will explore the positive and negative impacts of Generative 
 
 ## Age Assurance
 
-Recent regulations restricting children's online access through age assurance requirements are driving major changes across the web, prompting a mini-workshop to continue discussions from last year's joint IAB/W3C workshop on age-based access restrictions. Attendees are encouraged to submit proposals for discussion topics such as privacy expectations, risk mapping, and the need for multi-stakeholder collaboration beyond purely technical solutions.
+Recent regulations restricting children's online access through age assurance requirements are driving major changes across the web, prompting a mini-workshop to continue discussions from last year's joint IAB/W3C workshop on age-based access restrictions. Attendees are encouraged to submit proposals for discussion topics such as privacy expectations, risk mapping, and the need for multi-stakeholder collaboration beyond purely technical solutions. **We are no longer accepting proposals.**
 
 ## Data Governance & Ownership
 
